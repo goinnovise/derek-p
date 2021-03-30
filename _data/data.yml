@@ -7,20 +7,20 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Loren Anderson
-  tagline: Principal Consultant - Senior Software Engineer, TPM, BA
-  avatar: profile.png
+  name: Derek Pedersen
+  tagline: Senior Software Engineer
+  avatar: profile.jpg
 
   # Sidebar links
-  email: loren@goinnovise.com
-  phone: 425-941-5979
+  #email: loren@goinnovise.com
+  #phone: 425-941-5979
   website: goinnovise.com
-  linkedin: loren-anderson
-  github: TheOfficialLoren
+  linkedin: derek-pedersen-67105415
+  github:
   gitlab:
   bitbucket:
   twitter:
-  stack-overflow: 1121638/lorengphd
+  stack-overflow:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -28,137 +28,80 @@ sidebar:
   #- idiom: English
   #level: Native
 
-  interests:
-    - item: Photography
-      link:
-
-    - item: Fitness
-      link:
-
-    - item: Travel
-      link:
-
-    - item: Gaming
-      link:
+  #interests:
+  #  - item: Photography
+  #    link:
+#
+#  - item: Fitness
+#    link:
+#
+#  - item: Travel
+#    link:
+#
+#  - item: Gaming
+#    link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Loren is a Senior Software Engineer with 10+ years of experience successfully
-    leading teams and educating businesses on development methodologies and best
-    practices. With his extensive knowledge of a wide array of software technologies,
-    languages and frameworks, Loren has assumed many different roles throughout his
-    career such as Systems Architect, Project Manager and Business Analyst, while
-    simultaneously programming and remaining a Senior Software Engineer. He excels
-    at quickly understanding the architectural landscape of businesses to advise and
-    bridge the gap between technical and non-technical teams to achieve business
-    goals, which is why he continues to be effective in the consulting industry.
+    Derek is a full stack software engineer with experience working in a variety of fields (e-commerce, healthcare, consulting) and across a range of business environments (start-up to fortune 50). Experienced in taking an idea from kickoff to proof of concept, turning it into a minimal viable product and then onto a fully scalable enterprise solution.
 
 education:
-  - degree: General Studies - Focus on Business
+  - degree: BA Economics, Philosophy (Double Major)
     university: Western Washington University
+
+  - degree: Database Design and Administration, Certificate
+    university: Seattle Central College
 
 experiences:
   - role: Senior Software Engineer
     time: May 2019 - Present
-    company: Modern Car Manufacturer (Protected by NDA on contract by iTrellis, LLC)
+    company: Navigating Cancer
     location: Seattle, WA
     details: |
-      As the Senior Software Engineer Loren was responsible for working on two projects
-      simultaneously for multiple stakeholders within the client's organization. One
-      project focused on creating and integrating the API that provides data to all client
-      vehicle head units worldwide, aligning with changing laws &amp; regulations. The 
-      second project was solving Azure Active Directory syncing issues for a 
-      subsection of the client's employees, requiring the creation of APIs and tasks 
-      to sync the Active Directory databases. 
+      Part of a team leading an initiative to move the organisation from a ECS based approach to a EKS
+      based one. Which entailed breaking apart monolithic application deployments while also moving to a
+      CI/CD development workflow
 
-      _Accomplishments_
-        -	Learned the clients operations procedures and used Docker & Kubernetes to stand
-        up both systems in Azure, resulting in successful systems integrations.
-        - Supported teams based out of Europe including during off-hours releases
-        for troubleshooting, debugging and general needs.
-        - Successfully delivered both projects ahead of projected timeline.
-        - At the request of the client, presented and demonstrated project work at meetings.
-
-  - role: Senior Software Engineer
-    time: Oct 2019 - May 2019
-    company: Intl. Commercial Real Estate Corp. (Protected by NDA on contract by iTrellis, LLC)
-    location: Dallas, TX
+  - role: Software Engineer
+    time: Jan 2018 - May 2019
+    company: MultiScale Health Networks
+    location: Seattle, WA
     details: |
-      This project was for a client based in Dallas, Texas and required a combination
-      of remote and on-site work. Loren was tasked with working within the team to
-      produce an angular-driven internal website, featuring real-time dashboards that
-      displayed performance data an analytics used by the company's sales team.
-      Throughout this project, Loren played an integral role in solving front-end
-      and back-end projects simultaneously for the website, demonstrating the
-      benefits and efficiencies of resources that can execute both types of 
-      software design.
+      Helped deliver cloud based healthcare solutions that enable care providers to spend more
+      meaningful and efficient time with.patients. Derek primarily worked on delivering healthcare information
+      in real-time to resource decision makers such as the department charge nurse or the house
+      supervisor.
 
-      _Accomplishments_
-        - The only member on the project team, working on front-end and back-end parts of the code increase production and decrease dependencies.
-        - Taught the client's team software development best practices such as git version control.
-        - Adopted Angular 7, Postgres and GoLang within a couple of days to meet the client's expectations.
-
-  - role: Account Lead & Senior Software Engineer
-    time: Oct 2018 - Oct 2019
-    company: Crestron (on contract by iTrellis, LLC)
-    location: Rockleigh, NJ
+  - role: Software Engineering Consultant
+    time: May 2016 - Jan 2018
+    company: iTrellis, LLC
+    location: Seattle, WA
     details: |
-      As a Senior Software Engineer, Loren assisted in the overhaul and deployment of
-      the client’s primary customer facing website and back-end tools to support
-      content changes and solve for multiple major performance issues.  He also provided
-      post-deployment support and continued feature development. Throughout this
-      process Loren also taught software development best practices and facilitated
-      the implementation of these processes, allowing the client to be self-sufficient 
-      post-completion of the project. He was also responsible for helping with 
-      code reviews, release management, Azure Dev Ops functions and process documentation.
+      Primarily focused on helping clients maintain their application portfolios through development and
+      maintenance of new and existing applications. While also evaluating their current development
+      practices in an effort to help achieve a quicker rate of delivery of new features by minimizing the
+      introduction of bugs.
 
-      _Accomplishments_
-        -	Responsible for building and maintaining iTrellis's relationship with the
-        client as the Account Lead.
-        - Supported the release of enterprise level Azure hosted website.
-        - Performed successful integrations including CDN and Elastic Search.
-        - Improved site performance by reducing database calls on each pages from
-        120 calls per page to 2, making Elastic Search more efficient.
-        - Quickly learned the company’s architectural landscape to make an immediate
-        impact on the client's team.
-        - As the Release Manager, Loren planned and executed the back-end tool
-        solution for content managers.
-
-  - role: Project Manager &amp; Senior Software Engineer
-    time: Dec 2017 - Oct 2019
-    company: Capstone Technologies (on contract by iTrellis, LLC)
-    location: Vancouver, WA
-    details: |
-      Played an integral role in transforming the client with no software change 
-      management processes into a SAFe organization, implementing Microsoft Team
-      Foundation Server as the team support technology. Acted as the Scrum Master,
-      supporting the team in the adoption of  Agile principles and continuous
-      development techniques. Produced metrics to identify strong and weak points
-      in the software creation process.
-        
-      _Accomplishments_
-        -	Organized the company into 3 functioning Scrum teams.
-        - Taught 9 developers and 5+ business analysts how to utilize the Scrum process.
-        - Created a CI/CD pipeline to increase productivity and quality assurance.
-
-  - role: Team Lead &amp; Senior Software Engineer
-    time: Mar 2011 - Jun 2016
-    company: ATG Stores / Lowe's
+  - role: Software Engineer
+    time: Oct 2015 - May 2016
+    company: Lowe's Home Improvement
     location: Kirkland, WA
     details: |
-      Loren was responsible for the redesign of the cart and checkout pages of
-      e-commerce home improvement companies ATGStores.com and Lowe's Canada. This
-      integral redesign ensured optimal performance for customers purchasing on
-      the website. During this time, Loren also built and lead a team of 6 software
-      engineers to maintain and add additional features to the cart and checkout
-      pages of the site.
+      Derek's last assignment was to design, draft, and implement a standardization of development
+      tools, practices, and workflows within the department (Kirkland, WA). He used a continuous delivery
+      approach that employed the Atlassian tool suite (Jira, BitBucket, Confluence, Bamboo) to control
+      work item tracking and builds of .NET applications (C#, SQL Server, Web Api, Nuget) that spanned
+      from console applications for accounting to full eCommerce websites.
 
-      _Accomplishments_
-        - Integral part in helping meet and comply with PCI standards.
-        - Designed and created the credit card value using key encryption technology.
-        - Built and maintained a multi-million dollar checkout experience using Asp.net and C#.
-        - Implemented and lead the first team in the company to adopt Scrum methodologies.
+  - role: Software Team Lead
+    time: Feb 2012 - Oct 2015
+    company: ATG Stores
+    location: Kirkland, WA
+    details: |
+      Derek's team was responsible for building and maintaining business applications that ranged from back
+      office OMS web form applications for printing return shipping labels to more complex B2B systems
+      integrations such as with Ariba and other cXML based purchasing solutions.
 
 projects:
   title: Projects
@@ -210,8 +153,8 @@ publications:
 
 skills:
   title: Skills &amp; Proficiencies
-  languages: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
-  frameworks: ".NET, Angular, ReactJs, VueJs, RxjJS, Spring Boot, BeeGo, jQuery, Jekyll"
-  tools: "Windows, Mac OS, Redux, Visual Studio, VS Code, Agile, Scrum, SAFe"
-  operations: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
+  languages: "C#, JavaScript, Java,"
+  frameworks: ".NET, jQuery"
+  tools: "Windows, Mac OS, Visual Studio Agile, Scrum, SAFe"
+  operations: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Atlassian Bamboo"
   other: "Leading Teams, Cross-Functional Communication, Git, Azure, SQL Server, Postgres"
